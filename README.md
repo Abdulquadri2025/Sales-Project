@@ -2,7 +2,8 @@
 ### INTRODUCTION 
 This Excel project focuses on analyzing the sales of high-demand fast food items. The dataset includes important details such as each menu item's unique ID, name, category, and pricing information. This analysis aims to generate actionable insights to support strategic decision-making and enhance operational effectiveness. 
 
-**Project Overview** 
+**Table of Contents**
+- Project Overview
 - Project scope
 - Project objectives  
 - Expected outcome 
